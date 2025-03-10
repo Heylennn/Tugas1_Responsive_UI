@@ -2,11 +2,11 @@
 # Responsive & Adaptive UI pada YouTube  
 
 ### 📱 **Tampilan Mobile**  
-<img src="Images/Mobile 1.png" height="300"> <img src="Images/Mobile 2.png" height="300"> 
+<img src="Image/Mobile 1.jpeg" height="300"> <img src="Image/Mobile 2.jpeg" height="300"> 
 
 ### 🖥️ **Tampilan Desktop**
-<img src="Images/Desktop 1.jpeg" height="200"> 
-<img src="Images/Desktop 2.jpeg" height="200"> 
+<img src="Image/Desktop 1.png" height="200"> 
+<img src="Image/Desktop 2.png" height="200"> 
 
 YouTube dirancang agar nyaman digunakan di berbagai perangkat dengan menyesuaikan tata letaknya. Di **desktop**, tampilan lebih luas dengan menu di sisi kiri dan video rekomendasi di kanan, sedangkan di **mobile**, elemen-elemen ditata secara vertikal dengan menu di bagian bawah agar mudah dijangkau dengan satu tangan. Tombol-tombol seperti **like, subscribe, dan komentar** juga dibuat lebih besar di mobile agar lebih mudah ditekan.  
 
