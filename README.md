@@ -1,10 +1,10 @@
 **22100027 - Heylen Junila Saputry**
 # Responsive & Adaptive UI pada YouTube  
 
-### 📱 **Tampilan Mobile**  
+### **Tampilan Mobile**  
 <img src="Image/Mobile 1.jpeg" height="300"> <img src="Image/Mobile 2.jpeg" height="300"> 
 
-### 🖥️ **Tampilan Desktop**
+### **Tampilan Desktop**
 <img src="Image/Desktop 1.png" height="200"> 
 <img src="Image/Desktop 2.png" height="200"> 
 
